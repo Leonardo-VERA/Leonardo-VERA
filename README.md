@@ -55,20 +55,6 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
   Exploratory analysis, time series, and NLP experiments (in progress).  
   → Check the `test_openai.ipynb` and upcoming repos!
 
-
-
-
-  https://github.com/Leonardo-VERA/PicToMusic
-
----
-
-### 🌍 Currently...
-
-- Looking for a full-time role where I can:
-  - Build smart tools for digital teams  
-  - Lead automation and analytics projects  
-  - Contribute to tech innovation from inside
-
 ---
 
 ### 📫 Reach Me
