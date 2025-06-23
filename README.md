@@ -59,8 +59,9 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
 
 ### 📫 Reach Me
 
-📧 vera.ray.leonardo@gmail.com  
+🔗 [Linktree Portfolio] (https://linktr.ee/leonardo_vera)
 🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-vera/)
+📧 vera.ray.leonardo@gmail.com  
 
 ---
 [![Ray Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-VERA&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
