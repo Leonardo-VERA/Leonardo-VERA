@@ -45,7 +45,7 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
 - 🎼 **Deep Learning project - Music Score to Audio**  
   A project that generates audio played music from music score sheets. Using computer vision and music generation models, this tool analyzes visual elements like notes, dynamics and tempo to recreate an audio piece of a given score.
   
-  → Check the repo [`Music Score to Audio`](https://github.com/Leonardo-VERA/PicToMusic) and try the app [`Streamlit app`](sonatabene.streamlit.app/)  
+  → Check the repo [`Music Score to Audio`](https://github.com/Leonardo-VERA/PicToMusic) and try the app [`Streamlit app`](https://sonatabene.streamlit.app/)  
   
 - ♟️ **Queens solver game algorithm using streamlitapp**  
   A logic puzzle solver and visualizer for a variation of the classic N-Queens problem.
