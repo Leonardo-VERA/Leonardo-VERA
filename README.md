@@ -56,6 +56,15 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
   The project explores multiple approaches and includes data cleaning, feature engineering, and evaluation metrics.  
   → Check the repo: [`Gold Model Predictor`](https://github.com/Leonardo-VERA/M1_projet_etude)  
 
+
+- 📅 **Web Memory Toolkit – Intelligent Web Extraction & Summarization**
+  A modular tool that allows you to extract, summarize, and organize valuable content from any public webpage using Python and OpenAI.  
+  Designed for journalists, analysts, researchers, or anyone who wants to build structured knowledge from online sources.  
+  Instead of just saving bookmarks, you define your intention: keep a table, analyze text, download images, or generate a summary. The tool does the rest—scraping, formatting, and saving locally.  
+  → 👍 Built with: `Python` + `BeautifulSoup` + `API OpenAI` + `Google Colab`  
+  → Future-ready for cloud deployment via Google Cloud Functions 🦾🛠️  
+  → Check the repo: [`Web Memory Toolkit`](https://github.com/Leonardo-VERA/web-memory-toolkit)  
+  
 ---
 
 ### 📫 Reach Me
