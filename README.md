@@ -59,8 +59,8 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
 
 ### 📫 Reach Me
 
-🔗 [Linktree Portfolio] (https://linktr.ee/leonardo_vera)
-🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-vera/)
+🔗 [Linktree Portfolio] (https://linktr.ee/leonardo_vera) 
+🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-vera/) 
 📧 vera.ray.leonardo@gmail.com  
 
 ---
