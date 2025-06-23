@@ -45,15 +45,17 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
 - 🎼 **Deep Learning project - Music Score to Audio**  
   A project that generates audio played music from music score sheets. Using computer vision and music generation models, this tool analyzes visual elements like notes, dynamics and tempo to recreate an audio piece of a given score.
   
-  → Check the repo [`Music Score to Audio`](https://github.com/Leonardo-VERA/PicToMusic) and test the app [`Streamlit app`](sonatabene.streamlit.app/)
+  → Check the repo [`Music Score to Audio`](https://github.com/Leonardo-VERA/PicToMusic) and try the app [`Streamlit app`](sonatabene.streamlit.app/)  
   
-- 🧾 **PDF Cover Letter Generator with OpenAI**  
-  Automates tailored cover letters with a smart prompt+docx+PDF pipeline.  
-  → [`pdf_lettre_creator`](https://github.com/Leonardo-VERA/pdf_lettre_creator)
+- ♟️ **Queens solver game algorithm using streamlitapp**  
+  A logic puzzle solver and visualizer for a variation of the classic N-Queens problem.
+  The app allows users to explore solutions interactively through a clean interface built with Streamlit.
+  → Check the repo: [`Queens Solver app`](https://github.com/Leonardo-VERA/queens_solver) andt try the app [`Streamlit app`](https://queenapplver-qcv9joqm8fmfroiuxaschj.streamlit.app/)  
 
-- 🧪 **EDA & Modeling Notebooks**  
-  Exploratory analysis, time series, and NLP experiments (in progress).  
-  → Check the `test_openai.ipynb` and upcoming repos!
+- 🧪 **Gold Price Predictor – Machine Learning Project**  
+  A predictive model for forecasting gold prices using machine learning and time series analysis.
+  The project explores multiple approaches and includes data cleaning, feature engineering, and evaluation metrics. 
+  → Check the repo: [`Gold Model Predictor`](https://github.com/Leonardo-VERA/M1_projet_etude)  
 
 ---
 
