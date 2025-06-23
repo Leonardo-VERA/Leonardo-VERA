@@ -42,9 +42,9 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
 
 ### ⚡ Projects I'm proud of
 
-- 🧪 **Deep Learning project - Music Score to Audio**  
-  A project that generates audio played music from music score sheets. Using computer vision and music generation models, this tool analyzes visual elements like notes, dynamics and tempo to recreate an audio piece of a given score. 
-  → Check the repo [`Music Score to Audio`](https://github.com/Leonardo-VERA/PicToMusic)
+- 🎼 **Deep Learning project - Music Score to Audio**  
+  A project that generates audio played music from music score sheets. Using computer vision and music generation models, this tool analyzes visual elements like notes, dynamics and tempo to recreate an audio piece of a given score.
+  → Check the repo [`Music Score to Audio`](https://github.com/Leonardo-VERA/PicToMusic).
   → Check and test the app [`Streamlit app`](sonatabene.streamlit.app/)
   
 - 🧾 **PDF Cover Letter Generator with OpenAI**  
