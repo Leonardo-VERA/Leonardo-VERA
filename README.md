@@ -23,7 +23,8 @@ I’m particularly interested in:
   <td align="center" width="300">
 
 <img src="linktree.png" alt="QR code" width="280"/><br>
-<strong>👉 Scan my web portfolio!</strong>
+<strong>👉 Scan my web portfolio!</strong>  
+🔗 [Linktree Portfolio](https://linktr.ee/leonardo_vera)  
 
   </td>
 </tr>
