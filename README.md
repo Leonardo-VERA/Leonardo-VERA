@@ -22,7 +22,7 @@ I’m particularly interested in:
   </td>
   <td align="center" width="300">
 
-<img src="linktree.png" alt="QR code" width="180"/><br>
+<img src="linktree.png" alt="QR code" width="280"/><br>
 <strong>👉 Scan my web portfolio!</strong>
 
   </td>
