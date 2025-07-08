@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ray Leonardo VERA
 
-🎯 **Data Scientist & Analyst** | Passionate about automation, digital strategy & solving real-world problems
+🎯 **Data Scientist & Analyst** | Designing smart pipelines that deliver efficient, human-focused, data-driven decisions. I am also passionate about automation, digital strategy & solving real-world problems.
 
 ---  
 
