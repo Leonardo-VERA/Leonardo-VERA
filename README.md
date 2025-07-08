@@ -3,6 +3,7 @@
 🎯 **Data Scientist & Analyst** | Passionate about automation, digital strategy & solving real-world problems
 
 ---
+<img src="linktree.png" alt="preview" width="500" align="right"/>
 
 ### 🚀 What I Do
 
