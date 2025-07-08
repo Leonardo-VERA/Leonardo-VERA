@@ -4,17 +4,30 @@
 
 ---  
 
-<img src="linktree.png" alt="preview" width="200" align="right"/>  
+<table>
+<tr>
+  <td>
 
-### 🚀 What I Do <p align="right"> <strong>👉 Scan my web portfolio!</strong> </p>
+### 🚀 What I Do
 
 I help teams unlock the value of their data by building automated solutions, efficient pipelines and meaningful dashboards.
 
 I’m particularly interested in:
-- 🔁 **Digital transformation** through Python scripting & low-code tools
-- 🧠 **Data-driven decision-making** in operational and business contexts
-- ⚙️ **Automation** of reporting and repetitive tasks
-- 💬 **Clear communication** between technical and non-technical teams
+
+- 🔁 **Digital transformation** through Python scripting & low-code tools  
+- 🧠 **Data-driven decision-making** in operational and business contexts  
+- ⚙️ **Automation** of reporting and repetitive tasks  
+- 💬 **Clear communication** between technical and non-technical teams  
+
+  </td>
+  <td align="center" width="300">
+
+<img src="linktree.png" alt="QR code" width="180"/><br>
+<strong>👉 Scan my web portfolio!</strong>
+
+  </td>
+</tr>
+</table>  
 
 ---
 
