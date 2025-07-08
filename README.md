@@ -2,10 +2,11 @@
 
 🎯 **Data Scientist & Analyst** | Passionate about automation, digital strategy & solving real-world problems
 
----
-<img src="linktree.png" alt="preview" width="500" align="right"/>
+---  
 
-### 🚀 What I Do
+<img src="linktree.png" alt="preview" width="200" align="right"/>  
+
+### 🚀 What I Do <p align="right"> <strong>👉 Scan my web portfolio!</strong> </p>
 
 I help teams unlock the value of their data by building automated solutions, efficient pipelines and meaningful dashboards.
 
