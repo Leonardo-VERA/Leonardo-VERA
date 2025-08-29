@@ -37,7 +37,7 @@ I’m particularly interested in:
 ### 🧠 Skills Snapshot
 
 - **Data Engineering & Big Data**: PySpark, Databricks, Airflow, BigQuery, GCP  
-- **Languages & Tools**: `Python`, `SQL`, `Power BI`, `Looker`, `Tableau`, `Power BI`, `BigQuery`, `GCP`, `PySpark`, `Databricks`, `Airflow`
+- **Languages & Tools**: `Python`, `SQL`, `Power BI`, `Looker`, `Tableau`, `Power BI`, `BigQuery`, `GCP`, `PySpark`, `Databricks`, `Airflow`, `dbt`  
 - **Dev Mindset**: Git, modular coding, REST APIs, CLI tools
 - **Soft Skills**: Proactive, autonomous, curious, solution-oriented
 - **Infra & Security**: Familiarity with networks, systems & access management
