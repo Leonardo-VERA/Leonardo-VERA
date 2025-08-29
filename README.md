@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Ray Leonardo VERA
 
-🎯 **Data Scientist & Analyst** | Designing smart pipelines that deliver efficient, human-focused, data-driven decisions. I am also passionate about automation, digital strategy & solving real-world problems.
-🎯 **Future Data Engineer (Mastère École d’Ingénieurs ECE Paris)** | Looking for a 24-month apprenticeship (Sept. 2025) | Big Data • Cloud • CI/CD
+🎯 **Data Engineer (Mastère École d’Ingénieurs ECE Paris)** | Looking for a 24-month apprenticeship (Sept. 2025) | Big Data • Cloud • CI/CD  
+🎯 Designing smart pipelines that deliver efficient, human-focused, data-driven decisions. I am also passionate about automation, digital strategy & solving real-world problems.  
 
 ---  
 
