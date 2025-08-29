@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Ray Leonardo VERA
 
 🎯 **Data Scientist & Analyst** | Designing smart pipelines that deliver efficient, human-focused, data-driven decisions. I am also passionate about automation, digital strategy & solving real-world problems.
+🎯 **Future Data Engineer (Mastère École d’Ingénieurs ECE Paris)** | Looking for a 24-month apprenticeship (Sept. 2025) | Big Data • Cloud • CI/CD
 
 ---  
 
@@ -10,13 +11,14 @@
 
 ### 🚀 What I Do
 
-I help teams unlock the value of their data by building automated solutions, efficient pipelines and meaningful dashboards.
+I help teams unlock the value of their data by building scalable pipelines, automating workflows, and delivering meaningful dashboards.
 
 I’m particularly interested in:
-
+- ⚙️ **ETL / ELT & Data Pipelines** (Python, PySpark, Airflow, Databricks)  
+- ☁️ **Cloud & Big Data Architectures** (BigQuery, GCP, SQL, NoSQL)  
+- ⚙️ **Automation of workflows and reporting** of repetitive tasks  
 - 🔁 **Digital transformation** through Python scripting & low-code tools  
 - 🧠 **Data-driven decision-making** in operational and business contexts  
-- ⚙️ **Automation** of reporting and repetitive tasks  
 - 💬 **Clear communication** between technical and non-technical teams  
 
   </td>
@@ -34,6 +36,7 @@ I’m particularly interested in:
 
 ### 🧠 Skills Snapshot
 
+- **Data Engineering & Big Data**: PySpark, Databricks, Airflow, BigQuery, GCP  
 - **Languages & Tools**: `Python`, `SQL`, `Power BI`, `Looker`, `Tableau`, `Power BI`, `BigQuery`, `GCP`, `PySpark`, `Databricks`, `Airflow`
 - **Dev Mindset**: Git, modular coding, REST APIs, CLI tools
 - **Soft Skills**: Proactive, autonomous, curious, solution-oriented
