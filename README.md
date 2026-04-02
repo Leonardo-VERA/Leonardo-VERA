@@ -76,7 +76,7 @@ Proactive · Autonomous · Curious · Solution-oriented · Clear communicator (F
 
 ### 💼 Experience
 
-**Data Scientist / Analyst (Apprenticeship)**  
+**Data Scientist / Analyst**  
 _SNCF / RLE · Sept 2023 – Sept 2024 (Paris)_  
 → Automated reports using Python & BigQuery  
 → Built dashboards to inform strategic decisions  
