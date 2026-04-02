@@ -79,51 +79,51 @@ Proactive · Autonomous · Curious · Solution-oriented · Clear communicator (F
 
 ### 💼 Experience
 
-**Data Engineer · LLM Apps Developer**
-_Startperf · (Paris) · 2025 – 2027
+**Data Engineer · LLM Apps Developer**  
+_Startperf · (Paris) · 2025 – 2027_  
 → Built automated & recurring data pipelines ingesting from DataForSEO,
-  ScaleSERP, Screaming Frog & Google Search Console into BigQuery
+  ScaleSERP, Screaming Frog & Google Search Console into BigQuery  
 → Developed a multi-client LLM app crawling AI search responses
-  (OpenAI, Gemini, Claude, Perplexity) for GEO (Generative Engine Optimization) analysis
+  (OpenAI, Gemini, Claude, Perplexity) for GEO (Generative Engine Optimization) analysis  
 → Deployed production apps on GCP (Cloud Run, Pub/Sub, Cloud Build,
-  Scheduler, Secret Manager) and Azure (CI/CD, endpoints, secrets)
+  Scheduler, Secret Manager) and Azure (CI/CD, endpoints, secrets)  
 → Built a custom MCP server for Google Search Console (multi-client),
-  hosted on Azure — RGPD compliant, using Azure LLM models
-→ Automated a GSC chatbot via n8n, deployed on Slack for stakeholders
-→ Developed frontend (Next.js, Vue.js) & backend (FastAPI) for user-facing apps
+  hosted on Azure — RGPD compliant, using Azure LLM models  
+→ Automated a GSC chatbot via n8n, deployed on Slack for stakeholders   
+→ Developed frontend (Next.js, Vue.js) & backend (FastAPI) for user-facing apps  
 → Tools: `Python` `GCP` `Azure` `BigQuery` `Looker` `Docker` `Terraform`
-  `GitHub Actions` `FastAPI` `Next.js` `n8n` `PostgreSQL` `Firestore`
+  `GitHub Actions` `FastAPI` `Next.js` `n8n` `PostgreSQL` `Firestore`  
 
-**Data & Automation Engineer**
-_Horizons - Ingetis · Paris · 2025 (CDD)_
+**Data & Automation Engineer**  
+_Horizons - Ingetis · Paris · 2025 (CDD)_  
 → Deployed a cloud data hub on **Supabase** (PostgreSQL) aggregating student
-  & prospect data across INGETIS and ITIS schools
-→ Connected **3CX** (telephony) to the data pipeline for real-time call tracking
-→ Built operational **Grafana dashboards** (incl. Sankey flows) to monitor
+  & prospect data across INGETIS and ITIS schools  
+→ Connected **3CX** (telephony) to the data pipeline for real-time call tracking  
+→ Built operational **Grafana dashboards** (incl. Sankey flows) to monitor  
   agent activity and prospect journeys 24/7
 → Automated critical workflows with **Make** & **Airtable**,
-  eliminating **80% of manual tasks**
-→ Integrated **Brevo** for mass email campaigns triggered by pipeline events
+  eliminating **80% of manual tasks**  
+→ Integrated **Brevo** for mass email campaigns triggered by pipeline events  
 → Delivered the full mission autonomously within a short timeframe,
-  giving management their first real-time visibility over operations
-→ Tools: `Supabase` `PostgreSQL` `Grafana` `Make` `Airtable` `3CX` `Brevo` `Python` `SQL`
+  giving management their first real-time visibility over operations  
+→ Tools: `Supabase` `PostgreSQL` `Grafana` `Make` `Airtable` `3CX` `Brevo` `Python` `SQL`  
 
-**Data Scientist / Analyst**
-_SNCF / RLE · Sept 2023 – Sept 2024 (Paris)_
+**Data Scientist / Analyst**  
+_SNCF / RLE · Sept 2023 – Sept 2024 (Paris)_  
 → Built a centralized data warehouse on BigQuery (from Oracle & SAP4HANA sources),
-  reducing data acquisition time by **85%** and enabling autonomous, continuous access
-→ Designed ETL pipelines in Python to transform multi-dimensional financial data
-→ Built predictive ML models (Python) to forecast EBITDA trends from historical data
+  reducing data acquisition time by **85%** and enabling autonomous, continuous access  
+→ Designed ETL pipelines in Python to transform multi-dimensional financial data  
+→ Built predictive ML models (Python) to forecast EBITDA trends from historical data  
 → Delivered dashboards (Looker, Power BI, Tableau) for financial KPIs:
-  EBITDA, ROI, Revenue, Margin, OCF, Working Capital
+  EBITDA, ROI, Revenue, Margin, OCF, Working Capital  
 → Produced financial reports & recommendations for stakeholders across Europe
-  to optimize freight routing costs and shift toward electric train operations
-→ Tools: `Python` `BigQuery` `Tableau` `Oracle` `SAP4HANA` `Looker` `Power BI`
+  to optimize freight routing costs and shift toward electric train operations  
+→ Tools: `Python` `BigQuery` `Tableau` `Oracle` `SAP4HANA` `Looker` `Power BI`  
 
 **Freelance Data Analyst**  
 _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_  
 → Built Power BI reports for e-commerce KPIs  
-→ Collaborated in English across distributed teams
+→ Collaborated in English across distributed teams  
 
 ---
 
