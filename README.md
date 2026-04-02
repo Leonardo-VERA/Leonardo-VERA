@@ -1,7 +1,10 @@
 ## 👋 Hi, I’m Ray Leonardo VERA
 
-🎯 **Data Engineer (Mastère École d’Ingénieurs ECE Paris)** | Looking for a 24-month apprenticeship (Sept. 2025) | Big Data • Cloud • CI/CD  
-Designing smart pipelines that deliver efficient, human-focused, data-driven decisions. I am also passionate about automation, digital strategy & solving real-world problems.  
+🎯 **Data Engineer | GCP · Azure · LLM Apps · SEO/GEO**
+Building automated pipelines & AI-powered apps that turn raw data into real business decisions.
+Skilled in Data Science · Machine Learning · Data Analysis —
+passionate about automation, digital strategy & solving real-world problems.
+Open to interesting opportunities
 
 ---  
 
@@ -11,15 +14,15 @@ Designing smart pipelines that deliver efficient, human-focused, data-driven dec
 
 ### 🚀 What I Do
 
-I help teams unlock the value of their data by building scalable pipelines, automating workflows, and delivering meaningful dashboards.
+I help teams unlock the value of their data by building scalable pipelines, deploying AI-powered apps, and delivering actionable insights from complex sources.
 
 I’m particularly interested in:
-- ⚙️ **ETL / ELT & Data Pipelines** (Python, PySpark, Airflow, Databricks)  
-- ☁️ **Cloud & Big Data Architectures** (BigQuery, GCP, SQL, NoSQL)  
-- ⚙️ **Automation of workflows and reporting** of repetitive tasks  
-- 🔁 **Digital transformation** through Python scripting & low-code tools  
-- 🧠 **Data-driven decision-making** in operational and business contexts  
-- 💬 **Clear communication** between technical and non-technical teams  
+- ⚙️ **Data Pipelines & Automation** — recurring, multi-source ingestion (DataForSEO, ScaleSERP, GSC, Screaming Frog) into BigQuery & Looker
+- ☁️ **Cloud Architectures** — production-ready apps on GCP & Azure (Cloud Run, Pub/Sub, Terraform, Docker, CI/CD)
+- 🤖 **LLM & AI Apps** — integrating OpenAI, Gemini, Claude, Perplexity for GEO analysis and real-world user-facing applications
+- 🔍 **SEO / GEO Data** — building tools that monitor and improve search visibility across multiple clients
+- 🔗 **MCP & Workflow Automation** — custom MCP servers, n8n, Slack bots for non-technical stakeholders
+- 💬 **Bridging Tech & Business** — clear communication between engineering teams and decision-makers
 
   </td>
   <td align="center" width="300">
