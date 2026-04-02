@@ -36,11 +36,41 @@ I’m particularly interested in:
 
 ### 🧠 Skills Snapshot
 
-- **Data Engineering & Big Data**: PySpark, Databricks, Airflow, BigQuery, GCP  
-- **Languages & Tools**: `Python`, `SQL`, `Power BI`, `Looker`, `Tableau`, `Power BI`, `BigQuery`, `GCP`, `PySpark`, `Databricks`, `Airflow`, `dbt`  
-- **Dev Mindset**: Git, modular coding, REST APIs, CLI tools
-- **Soft Skills**: Proactive, autonomous, curious, solution-oriented
-- **Infra & Security**: Familiarity with networks, systems & access management
+**☁️ Cloud & Infrastructure**  
+`GCP` `BigQuery` `Cloud Run` `Pub/Sub` `Cloud Build` `Cloud Scheduler` `Secret Manager` `Cloud Storage` `Firestore` `Firebase`  
+`Azure` (App deployment, Secrets, Endpoints, LLM RGPD-compliant)  
+`Terraform` `Docker`
+
+**⚙️ Data Engineering & Pipelines**  
+`Python` `PySpark` `Databricks` `Airflow` `dbt`  
+Automated & recurring pipelines — multi-source ingestion: `DataForSEO` `ScaleSERP` `Screaming Frog` `Google Search Console`  
+BigQuery scheduled queries · Cloud Logging & monitoring
+
+**🤖 LLM / AI & Prompt Engineering**  
+LLM API integration: `OpenAI` `Gemini` `Claude` `Perplexity`  
+GEO (Generative Engine Optimization) analysis apps · LLM response crawling · Structured prompt pipelines
+
+**🔗 MCP & Automation**  
+Custom MCP server (Google Search Console) — hosted on Azure (RGPD compliant)  
+`n8n` — automated GSC chatbot deployed on Slack
+
+**🌐 Software Development**  
+Backend: `FastAPI` `REST APIs`  
+Frontend: `Next.js` `Vue.js` `JavaScript`  
+Database: `PostgreSQL` `Firestore` `BigQuery`
+
+**🔁 DevOps & CI/CD**  
+`GitHub Actions` (secrets, deployments) · `Azure CI/CD` · `Cloud Build`
+
+**📊 BI & Visualisation**  
+`Looker` `Power BI` `Tableau`
+
+**🔍 SEO / GEO & Web Tools**  
+`Google Search Console` `Screaming Frog` `DataForSEO` `ScaleSERP`  
+GEO strategy · Search visibility analysis
+
+**💬 Soft Skills**  
+Proactive · Autonomous · Curious · Solution-oriented · Clear communicator (FR/EN)
 
 ---
 
