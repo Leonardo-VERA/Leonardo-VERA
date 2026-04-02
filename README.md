@@ -5,8 +5,8 @@ Building automated pipelines & AI-powered apps that turn raw data into real busi
 Skilled in Data Science · Machine Learning · Data Analysis —
 passionate about automation, digital strategy & solving real-world problems.
 
-🎓 Currently preparing: **Google Cloud Professional Data Engineer** certification
-💬 Open to connect & exchange — always happy to talk about interesting projects, collaborations or opportunities
+🎓 Currently preparing: **Google Cloud Professional Data Engineer** certification  
+💬 Open to connect & exchange — always happy to talk about interesting projects, collaborations or opportunities  
 
 ---  
 
