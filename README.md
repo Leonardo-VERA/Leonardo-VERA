@@ -163,5 +163,12 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
 📧 vera.ray.leonardo@gmail.com  
 
 ---
-[![Ray Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-VERA&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-_"Build tools that matter. Make tech feel human."_  
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Leonardo-VERA&color=e91e8c&style=for-the-badge&label=Profile+Views)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leonardo-VERA&theme=radical)](https://github.com/Leonardo-VERA)
+
+</div>
+
+_"Build tools that matter. Make tech feel human."_
