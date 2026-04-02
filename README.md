@@ -4,7 +4,9 @@
 Building automated pipelines & AI-powered apps that turn raw data into real business decisions.
 Skilled in Data Science · Machine Learning · Data Analysis —
 passionate about automation, digital strategy & solving real-world problems.
-Open to interesting opportunities
+
+🎓 Currently preparing: **Google Cloud Professional Data Engineer** certification
+💬 Open to connect & exchange — always happy to talk about interesting projects, collaborations or opportunities
 
 ---  
 
@@ -95,7 +97,7 @@ _Startperf · (Paris) · 2025 – 2027_
   `GitHub Actions` `FastAPI` `Next.js` `n8n` `PostgreSQL` `Firestore`  
 
 **Data & Automation Engineer**  
-_Horizons - Ingetis · Paris · 2025 (CDD)_  
+_Horizons - Ingetis · Paris · 2025_  
 → Deployed a cloud data hub on **Supabase** (PostgreSQL) aggregating student
   & prospect data across INGETIS and ITIS schools  
 → Connected **3CX** (telephony) to the data pipeline for real-time call tracking  
@@ -136,7 +138,7 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
 - ♟️ **Queens solver game algorithm using streamlitapp**  
   A logic puzzle solver and visualizer for a variation of the classic N-Queens problem.
   The app allows users to explore solutions interactively through a clean interface built with Streamlit.  
-  → Check the repo: [`Queens Solver app`](https://github.com/Leonardo-VERA/queens_solver) andt try the app [`Streamlit app`](https://queenapplver-qcv9joqm8fmfroiuxaschj.streamlit.app/)  
+  → Check the repo: [`Queens Solver app`](https://github.com/Leonardo-VERA/queens_solver) and try the app [`Streamlit app`](https://queenapplver-qcv9joqm8fmfroiuxaschj.streamlit.app/)  
 
 - 🧪 **Gold Price Predictor – Machine Learning Project**  
   A predictive model for forecasting gold prices using machine learning and time series analysis.
