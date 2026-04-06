@@ -131,6 +131,20 @@ _Computer Parts Denmark ApS · Jan – Aug 2023 (Remote)_
 
 ### ⚡ Projects I'm proud of
 
+- 📊 **SEO Data Pipeline — Automated Multi-source Ingestion into BigQuery**
+  A fully automated and recurring data pipeline aggregating SEO data from multiple
+  sources (SERP API, SEO Data Provider, Web Crawler, Google Search Console)
+  into BigQuery for analysis and visualization in Looker.
+  → Built with: `Python` `GCP` `BigQuery` `Cloud Storage` `Pub/Sub` `Cloud Scheduler` `Cloud Run` `dbt` `Looker`
+  → Check the repo: [`seo-data-pipeline`](https://github.com/Leonardo-VERA/seo-data-pipeline)
+
+- 🤖 **GEO LLM Analyzer — Generative Engine Optimization Analysis App**
+  A multi-client web app that crawls AI-generated search responses across major
+  LLM APIs (OpenAI, Gemini, Claude, Perplexity) to analyze brand and content
+  visibility in the era of generative search.
+  → Built with: `Python` `FastAPI` `Vue.js` `GCP` `BigQuery` `Firestore` `Docker`
+  → Check the repo: [`geo-llm-analyzer`](https://github.com/Leonardo-VERA/geo-llm-analyzer)
+
 - 🎼 **Deep Learning project - Music Score to Audio**  
   A project that generates audio played music from music score sheets. Using computer vision and music generation models, this tool analyzes visual elements like notes, dynamics and tempo to recreate an audio piece of a given score.  
   → Check the repo [`Music Score to Audio`](https://github.com/Leonardo-VERA/PicToMusic) and try the app [`Streamlit app`](https://sonatabene.streamlit.app/)
